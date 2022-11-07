@@ -707,7 +707,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
-}
+}s
 
 h3 {
     font-size: 15px;
@@ -1039,4 +1039,19 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.bloc-2-title{
+    margin: 0 20px;
+}
+
+.citation{
+    margin: 0 20px;
+    font-style: italic;
+}
+
+.citation_subtitle{
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 100;
 }
