@@ -1059,3 +1059,7 @@ h4 {
 .black{
     color: #000000;
 }
+
+.footer_link{
+    padding: 15px 0;
+}
